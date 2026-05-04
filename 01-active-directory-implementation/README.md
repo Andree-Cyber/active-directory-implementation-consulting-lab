@@ -1,4 +1,4 @@
-# Active Directory Implementation for a Small Business
+# Active Directory Implementation Consulting Lab
 
 ## Project Overview
 
